@@ -1,0 +1,136 @@
+:root {
+  --main-font: "Franklin Gothic Medium";
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-family: var(--main-font);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: grey;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  background-color: white;
+}
+
+nav {
+  position: fixed;
+  width: 100%;
+  height: 60px;
+  background-color: beige;
+  z-index: 1;
+}
+
+#navbar {
+  border-bottom: solid 1px;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+#nav-items {
+  height: 100%;
+  width: 100%;
+  border: solid px;
+  display: flex;
+  align-items: center;
+}
+
+#logo {
+  border: solid px;
+  width: 33.33%;
+}
+
+#logo-img {
+  width: 10%;
+  margin-left: 7%;
+  padding: 5px;
+}
+
+#nav-links {
+  border: solid px;
+  width: 33.33%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.link-item {
+  border: solid px;
+  margin: 5px;
+}
+
+#signin-section {
+  border: solid px;
+  width: 33.33%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#signup {
+  border: solid 1px;
+  margin: 5px;
+  padding: 3px;
+  background-color: rgb(62, 106, 224);
+}
+
+#container {
+  border: solid 1px;
+  width: 100%;
+  height: 100%;
+}
+
+#summary {
+  border: solid 1px;
+  margin: 5% 5% 2% 5%;
+  display: flex;
+}
+
+#summarysection1 {
+  border: solid 1px;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#headtxt {
+  border: solid 1px;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: 2.5rem;
+}
+
+#h-paragraph {
+  border: solid 1px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#summarysection2 {
+  border: solid 1px;
+  width: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#dashvector {
+  width: 50%;
+}

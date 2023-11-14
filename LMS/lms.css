@@ -48,7 +48,7 @@ nav {
 }
 
 #logo {
-  border: solid 1px;
+  border: solid px;
   width: 33.33%;
 }
 
@@ -59,7 +59,7 @@ nav {
 }
 
 #nav-links {
-  border: solid 1px;
+  border: solid px;
   width: 33.33%;
   display: flex;
   align-items: center;
@@ -67,12 +67,12 @@ nav {
 }
 
 .link-item {
-  border: solid 1px;
+  border: solid px;
   margin: 5px;
 }
 
 #signin-section {
-  border: solid 1px;
+  border: solid px;
   width: 33.33%;
   display: flex;
   justify-content: center;
@@ -89,7 +89,7 @@ nav {
 #homepage {
   height: 100vh;
   width: 100%;
-  border: solid 1px;
+  border: solid px;
   display: flex;
   flex-direction: column;
 }
@@ -117,13 +117,13 @@ nav {
 #head-text1 {
   border: solid px;
   font-size: 3rem;
-  margin: 8% 10% 1% 8%;
+  margin: 8% 2% 1% 15%;
 }
 
 #head-text2 {
   border: solid px;
   font-size: 2.5rem;
-  margin: 0 8% 1% 8%;
+  margin: 0 0 1% 15%;
 }
 
 .blue {
@@ -134,12 +134,12 @@ nav {
 #sub-text {
   border: solid px;
   font-size: 1.3rem;
-  margin: 1% 10% 1% 8%;
+  margin: 1% 0 1% 15%;
 }
 
 #get-started {
   border: solid px;
-  margin: 1% 10% 1% 8%;
+  margin: 1% 10% 1% 15%;
 }
 
 #gs-button {

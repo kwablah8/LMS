@@ -52,6 +52,12 @@ nav {
   width: 33.33%;
 }
 
+#logo-img {
+  width: 10%;
+  margin-left: 7%;
+  padding: 5px;
+}
+
 #nav-links {
   border: solid 1px;
   width: 33.33%;

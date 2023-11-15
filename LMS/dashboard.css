@@ -187,14 +187,14 @@ input {
 
 #coursesheader {
   border: solid px;
-  margin: 5% 5% 1% 5%;
+  margin: 2% 5% 1% 5%;
   padding: 0.5% 3%;
   font-size: 1.5rem;
 }
 
 #ac-container {
   border: solid px;
-  margin: 2% 5% 5% 5%;
+  margin: 1% 5% 2% 5%;
   padding: 2%;
   display: grid;
   grid-template-columns: repeat(3, 1fr);

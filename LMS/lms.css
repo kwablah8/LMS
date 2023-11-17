@@ -86,9 +86,6 @@ nav {
   color: black;
 }
 
-.link-item a:hover {
-}
-
 #signin-section {
   border: solid px;
   width: 33.33%;
@@ -97,11 +94,30 @@ nav {
   align-items: center;
 }
 
+#login {
+  padding: 1.5% 3%;
+}
+
+#login:hover {
+  border-radius: 6px;
+  padding: 1.8% 3.5%;
+  background-color: rgb(212, 212, 212);
+}
+
+#login a:hover {
+  color: black;
+}
+
 #signup {
   border: solid 1px;
+  border-radius: 6px;
   margin: 5px;
   padding: 1.5% 3%;
   background-color: black;
+}
+
+#signup:hover {
+  padding: 1.8% 3.5%;
 }
 
 #signup a {
@@ -179,7 +195,6 @@ footer {
   color: #fff;
   padding: 1em;
   text-align: center;
-  position: ;
   bottom: 0;
   width: 100%;
 }
